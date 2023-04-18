@@ -1,7 +1,3 @@
-git remote add origin https://github.com/YoussefJlidi/internal-linking-SEO.git
-git branch -M main
-git push -u origin main
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
